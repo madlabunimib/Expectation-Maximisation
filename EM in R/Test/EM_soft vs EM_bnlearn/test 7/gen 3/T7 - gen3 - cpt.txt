@@ -1,0 +1,129 @@
+Uscita allo step: 6
+Convergenza dell'algoritmo allo step: 5
+
+  Bayesian network parameters
+
+  Parameters of node A (multinomial distribution)
+
+Conditional probability table:
+    
+A     A
+  0 0.5
+  1 0.5
+
+  Parameters of node B (multinomial distribution)
+
+Conditional probability table:
+    
+B              A
+  0 0.0005859375
+  1 0.9994140625
+
+  Parameters of node C (multinomial distribution)
+
+Conditional probability table:
+    
+C     A
+  0 0.5
+  1 0.5
+
+  Parameters of node D (multinomial distribution)
+
+Conditional probability table:
+    
+D     A
+  0 0.5
+  1 0.5
+
+  Parameters of node E (multinomial distribution)
+
+Conditional probability table:
+ 
+, , B = 0, C = 0, D = 0
+
+   A
+E     0   1
+  0 0.5 0.4
+  1 0.5 0.6
+
+, , B = 1, C = 0, D = 0
+
+   A
+E     0   1
+  0 0.3 0.2
+  1 0.7 0.8
+
+, , B = 0, C = 1, D = 0
+
+   A
+E     0   1
+  0 0.5 0.0
+  1 0.5 1.0
+
+, , B = 1, C = 1, D = 0
+
+   A
+E     0   1
+  0 0.0 0.0
+  1 1.0 1.0
+
+, , B = 0, C = 0, D = 1
+
+   A
+E     0   1
+  0 1.0 0.4
+  1 0.0 0.6
+
+, , B = 1, C = 0, D = 1
+
+   A
+E     0   1
+  0 0.3 0.2
+  1 0.7 0.8
+
+, , B = 0, C = 1, D = 1
+
+   A
+E     0   1
+  0 1.0 0.0
+  1 0.0 1.0
+
+, , B = 1, C = 1, D = 1
+
+   A
+E     0   1
+  0 0.3 0.0
+  1 0.7 1.0
+
+
+  Parameters of node F (multinomial distribution)
+
+Conditional probability table:
+ 
+, , D = 0, E = 0
+
+   A
+F     0   1
+  0 0.5 0.0
+  1 0.5 1.0
+
+, , D = 1, E = 0
+
+   A
+F     0   1
+  0 0.3 0.5
+  1 0.7 0.5
+
+, , D = 0, E = 1
+
+   A
+F     0   1
+  0 0.0 0.4
+  1 1.0 0.6
+
+, , D = 1, E = 1
+
+   A
+F     0   1
+  0 0.3 0.5
+  1 0.7 0.5

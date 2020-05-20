@@ -1,0 +1,30 @@
+Uscita allo step: 18
+Convergenza dell'algoritmo allo step: 17
+
+  Bayesian network parameters
+
+  Parameters of node A (multinomial distribution)
+
+Conditional probability table:
+    
+A           A
+  0 0.5714286
+  1 0.4285714
+
+  Parameters of node B (multinomial distribution)
+
+Conditional probability table:
+ 
+   A
+B              0            1
+  0 9.425916e-06 9.993808e-01
+  1 9.999906e-01 6.191511e-04
+
+  Parameters of node C (multinomial distribution)
+
+Conditional probability table:
+ 
+   B
+C           0         1
+  0 1.0000000 0.5002274
+  1 0.0000000 0.4997726

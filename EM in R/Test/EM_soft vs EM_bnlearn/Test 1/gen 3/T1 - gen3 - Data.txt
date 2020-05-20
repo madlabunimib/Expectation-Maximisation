@@ -1,0 +1,12 @@
+Data 2: 1
+Data 3: 0
+Data 4: 1
+Data 7: 1
+Data 8: 1
+Data 9: 1
+Data 10: 1
+Data 15: 1
+Data 16: 1
+Data 17: 1
+Data 18: 0
+

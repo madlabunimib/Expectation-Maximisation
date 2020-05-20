@@ -1,0 +1,4 @@
+Data 1: 0
+Data 2: 1
+Data 4: 0
+Dara 5: 1

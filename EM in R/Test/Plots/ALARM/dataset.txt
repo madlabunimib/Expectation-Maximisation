@@ -1,0 +1,20 @@
+     CVP            PCWP          HIST           TPR            BP            CO            HRBP           HREK           HRSA           PAP            SAO2      
+ HIGH  : 3159   HIGH  : 4247   FALSE:18909   HIGH  :5967   HIGH  :7262   HIGH  :11000   HIGH  :12968   HIGH  :12561   HIGH  :12587   HIGH  : 1151   HIGH  : 3422  
+ LOW   : 2285   LOW   : 2278   TRUE : 1091   LOW   :6135   LOW   :7875   LOW   : 3624   LOW   : 5792   LOW   : 5579   LOW   : 5580   LOW   : 1012   LOW   :15926  
+ NORMAL:14556   NORMAL:13475                 NORMAL:7898   NORMAL:4863   NORMAL: 5376   NORMAL: 1240   NORMAL: 1860   NORMAL: 1833   NORMAL:17837   NORMAL:  652  
+                                                                                                                                                                  
+     FIO2           PRSS           ECO2           MINV           MVS           HYP           LVF           APL           ANES          PMB                INT       
+ LOW   : 1011   HIGH  :10270   HIGH  :  707   HIGH  : 3781   HIGH  : 1035   FALSE:15955   FALSE:19010   FALSE:19798   FALSE:17907   FALSE:19795   ESOPHAGEAL:  606  
+ NORMAL:18989   LOW   : 5093   LOW   : 5922   LOW   : 1262   LOW   : 1041   TRUE : 4045   TRUE :  990   TRUE :  202   TRUE : 2093   TRUE :  205   NORMAL    :18396  
+                NORMAL: 4105   NORMAL:  492   NORMAL:  644   NORMAL:17924                                                                         ONESIDED  :  998  
+                ZERO  :  532   ZERO  :12879   ZERO  :14313                                                                                                          
+    KINK          DISC           LVV            STKV           CCHL          ERLO            HR           ERCA           SHNT           PVS            ACO2      
+ FALSE:19273   FALSE:18027   HIGH  : 4319   HIGH  :  833   HIGH  :15126   FALSE:18998   HIGH  :13774   FALSE:18012   HIGH  : 2060   HIGH  : 3539   HIGH  :  196  
+ TRUE :  727   TRUE : 1973   LOW   : 1765   LOW   : 3574   NORMAL: 4874   TRUE : 1002   LOW   :  386   TRUE : 1988   NORMAL:17940   LOW   :16019   LOW   :17211  
+                             NORMAL:13916   NORMAL:15593                                NORMAL: 5840                                NORMAL:  442   NORMAL: 2593  
+                                                                                                                                                                 
+     VALV           VLNG           VTUB           VMCH      
+ HIGH  : 3759   HIGH  :  552   HIGH  : 1171   HIGH  : 1165  
+ LOW   : 1532   LOW   : 4340   LOW   :14667   LOW   : 1175  
+ NORMAL:  825   NORMAL:  234   NORMAL:  329   NORMAL:16682  
+ ZERO  :13884   ZERO  :14874   ZERO  : 3833   ZERO  :  978 

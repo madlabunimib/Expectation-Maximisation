@@ -1,0 +1,6 @@
+   A          S          T          L          B          E          X          D       
+ no :4958   no :2485   no :4956   no :4670   no :2451   no :4630   no :4431   no :2650  
+ yes:  42   yes:2515   yes:  44   yes: 330   yes:2549   yes: 370   yes: 569   yes:2350  
+
+
+
