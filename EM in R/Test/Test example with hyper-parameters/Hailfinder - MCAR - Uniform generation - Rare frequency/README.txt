@@ -1,0 +1,2 @@
+This is an executable R Script. Please execute the file named: Example_ampute_loop_interval.
+ATTENTION: due to the huge number of experiments with different versions of the EM Algorithm, the execution of this script may require several minutes
